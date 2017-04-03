@@ -7,3 +7,4 @@ Berikut ini adalah list topik masing-masing pertemuan sesuai dengan SAP:
 3. Pertemuan 3: Array (Contoh pemecahan masalah dengan Array)
 4. Pertemuan 4: Stack (Contoh Stack dengan Array)
 5. Pertemuan 5: Stack (Contoh Stack menggunakan Stack Class)
+6. Pertemuan 6:
