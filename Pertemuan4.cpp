@@ -8,7 +8,7 @@ int main(){
     int pilihan = 0;
     cout << "Masukkan panjang data maksimum: ";
     cin >> panjang;
-    int data[panjang + 1];
+    int data[panjang] = {};
     char ulangi = 'n';
 
     do{
@@ -25,20 +25,17 @@ int main(){
                     cout << "Stack Penuh" << endl;
                 }
                 else{
-                    if(indeks < 0){
-                        indeks = 0;
-                    }
                     cout << "Push data: ";
                     cin >> data[indeks];
                     indeks++;
                 }
                 break;
             case 2:
-                indeks--;
-                if(indeks < 0){
+                if(indeks == 0){
                     cout << "Stack kosong" << endl;
                 }
                 else{
+                    indeks--;
                     cout << "Pop data: " << data[indeks] << endl;
                     data[indeks] = 0;
                 }
