@@ -9,7 +9,8 @@ Berikut ini adalah list topik masing-masing pertemuan sesuai dengan SAP:
 5. Pertemuan 5: Stack (Contoh Stack menggunakan Stack Class)
 6. Pertemuan 6: Queue (Contoh Queue dengan Array)
 7. Pertemuan 7: Queue (Contoh Queue menggunakan Class)
-8. Pertemuan 8: Linked List
-9. Pertemuan 9: Searching
-10. Pertemuan 10: Heaps and Priority Queues
-11. Pertemuan 11: Pengantar PBO
+8. Pertemuan 8: Linked List (Contoh Linked List menggunakan pointer)
+9. Pertemuan 9: Linked List (Contoh Linked List menggunakan Container List)
+10. Pertemuan 10: Searching
+11. Pertemuan 11: Heaps and Priority Queues
+12. Pertemuan 12: Pengantar PBO
